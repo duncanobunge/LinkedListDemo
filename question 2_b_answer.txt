@@ -1,0 +1,2 @@
+Time and space complexity of the program is:
+The program execute in O(1) space but O(N square) time : because it does not modify anything on the linkedlist input
